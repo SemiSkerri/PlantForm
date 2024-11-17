@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 
 <html>
-<body>
-<form>
-  First Name: 
-  <input type = "text"><br />
-</form>
-</body>
+  <body>
+  <form>
+    First Name: 
+    <input type = "text"><br />
+    Last Name:
+    <input type = "text"><br />
+    Address:
+    <input type = "text"><br />
+  </form>
+  </body>
 </html>
