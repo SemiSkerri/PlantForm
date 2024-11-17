@@ -1,2 +1,2 @@
-# Plant_Form.github.io
+# PlantForm
 Form Project for University
